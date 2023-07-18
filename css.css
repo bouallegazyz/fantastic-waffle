@@ -1,0 +1,53 @@
+.logo-docplanner{
+    width: 20%;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0, 3px, 1px, white;
+    padding: 3%;
+}
+.rm{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+li{
+    margin-left: 5%;
+}
+.para{
+    display: flex;
+    margin-top: 5%;
+}
+h1{
+    margin-top: 5%;
+    color: #00b39b;
+    text-align: center;
+    font-weight: x-large;
+}
+.position{
+    margin:5%
+}
+.rl{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 300px;
+
+}
+.taille{
+    border-radius: 3px;
+    box-shadow: 0px 0px 3px 0px;
+    margin: 1%;
+}
+.all{
+    display: flex;
+    justify-content: space-between;
+    margin: 8%;
+    flex-wrap: wrap;
+}
+button{
+    background-color: blue;
+}
